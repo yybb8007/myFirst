@@ -1,0 +1,44 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/aaa/aaa",
+    "pages/bbb/bbb",
+    "pages/ccc/ccc"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "五一啦",
+    "navigationBarTextStyle":"white"
+  },
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "slt",
+      "iconPath": "pages/img/slt.png",
+      "selectedIconPath": "pages/img/slt1.png"
+    },{
+      "pagePath": "pages/aaa/aaa",
+      "text": "pj",
+      "iconPath": "pages/img/pj.png",
+      "selectedIconPath": "pages/img/pj1.png"
+    },
+    {
+      "pagePath": "pages/bbb/bbb",
+      "text": "hsl",
+      "iconPath": "pages/img/hsl.png",
+      "selectedIconPath": "pages/img/hsl1.png"
+    },
+    {
+      "pagePath": "pages/ccc/ccc",
+      "text": "hdy",
+      "iconPath": "pages/img/hdy.png",
+      "selectedIconPath": "pages/img/hdy1.png"
+    }],
+    "color": "#000",
+    "selectedColor": "#84b83a",
+    "backgroundColor": "#fff",
+    "position": "bottom"
+  }
+}

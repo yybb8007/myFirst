@@ -1,0 +1,6 @@
+<!--aaa.wxml-->
+<view class="container log-list">
+  <view class="title">
+    <text>AAA</text>
+  </view>
+</view>

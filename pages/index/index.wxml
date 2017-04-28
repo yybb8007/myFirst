@@ -1,0 +1,8 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="nav">aaa</view>
+  <view class="nav">bbb</view>
+  <view class="nav">ccc</view>
+  <view class="nav">ddd</view>
+  <view class="nav">eee</view>
+</view>

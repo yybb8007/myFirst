@@ -1,0 +1,8 @@
+.aaa-list {
+  display: flex;
+  flex-direction: column;
+  padding: 40rpx;
+}
+.aaa-item {
+  margin: 10rpx;
+}
